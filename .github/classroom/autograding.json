@@ -223,7 +223,7 @@
     {
       "name": "Test 27",
       "setup": "",
-      "run": "timeout 5 ./tm tests/7-MT.txt 100 1000000 tests/input-27.txt > output && cmp output tests/output27.txt",
+      "run": "timeout 5 ./tm tests/27-MT.txt 100 1000000 tests/input-27.txt > output && cmp output tests/output27.txt",
       "input": "",
       "output": "",
       "comparison": "included",
